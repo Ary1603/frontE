@@ -1,0 +1,42 @@
+/* CSS FOR ALL THE COMPONENTS */
+
+/* COMPONENT: CARROUSEL */
+.carrousel-img-text{
+    font-size: 55px;
+    margin-bottom: 40px;
+}
+
+.btn-shop-now-carrousel{
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid #838484;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #656666;
+    margin-bottom: 30px;
+}
+
+/* COMPONENT: PING CARDS */
+
+.ping-card{
+    width: 20%;
+    margin: 20px 2%;
+}
+
+.ping-title{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 25px;
+}
+
+.ping-icon{
+    font-size: 30px;
+    margin: 0px 25%;
+}
+
+.ping-description{
+    font-size: 10px;
+    text-align: justify;
+    width: 90%;
+    color: #979899;
+}
